@@ -2,7 +2,7 @@
 
 ## Información
 - **ClickUp ID:** 86e3mddy3
-- **Estado:** en progreso
+- **Estado:** revisión
 - **Prioridad:** Sin prioridad
 - **URL de ClickUp:** https://app.clickup.com/t/86e3mddy3
 
