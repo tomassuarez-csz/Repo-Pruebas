@@ -30,7 +30,7 @@ Sin descripción registrada en ClickUp.
 
 ## Fases o actividades
 
-- Fase 1 — en progreso  
+- Fase 1 — revisión  
   - Tarea en ClickUp: https://app.clickup.com/t/86e3mddy3
 - Fase 2 — abiertas  
   - Tarea en ClickUp: https://app.clickup.com/t/86e3mddzp
