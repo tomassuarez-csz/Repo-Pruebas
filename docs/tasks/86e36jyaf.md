@@ -7,7 +7,7 @@
 - **URL de ClickUp:** https://app.clickup.com/t/86e36jyaf
 
 ## Descripción
-Descripcion 12
+Cambio de descripción
 
 ## Campos personalizados
 - **BASELINE_due_date**: _(sin valor)_
