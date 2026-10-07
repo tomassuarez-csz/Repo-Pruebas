@@ -2,7 +2,7 @@
 
 ## Información
 - **ClickUp ID:** 86e36jyaf
-- **Estado:** en progreso
+- **Estado:** pendiente
 - **Prioridad:** Sin prioridad
 - **URL de ClickUp:** https://app.clickup.com/t/86e36jyaf
 
