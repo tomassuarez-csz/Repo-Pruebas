@@ -1,18 +1,17 @@
-# Tarea - Prueba 3
+# Tarea - Prueba
 
-**Estado actual:** pendiente  
-**Gestión:** [ClickUp - Tarea principal](https://app.clickup.com/t/86e3mct0b)
+## Estado actual
 
----
+- Estado: pendiente
 
-## Fases del proyecto
+## Descripción
 
-### Fase 1
+Cambio de descripción
 
-- **Estado:** en progreso  
-- **Gestión:** [ClickUp - Fase 1](https://app.clickup.com/t/86e3mddy3)
+## Fases o actividades
 
-### Fase 2
+Actualmente no hay fases o subtareas registradas para este proyecto en ClickUp.
 
-- **Estado:** abiertas  
-- **Gestión:** [ClickUp - Fase 2](https://app.clickup.com/t/86e3mddzp)
+## Enlaces
+
+- Tarea principal en ClickUp: https://app.clickup.com/t/86e36jyaf
